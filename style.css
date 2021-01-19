@@ -1,13 +1,8 @@
-body {
-    background-color: black;
-       
-}
-
 .content {
     max-width: 500px;
     margin: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  }
+     }
 
 h1 {
     color: #F52304;
@@ -25,9 +20,7 @@ h4 {
     color: rgb(105, 25, 25);
 }
 
-p {
-  color: white;
-}
+
 
 img:hover {
     opacity: 0.5;
